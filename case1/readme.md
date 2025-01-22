@@ -1,46 +1,69 @@
-# Identified domains with a female-to-male pitcher ratio >70%
+# Location-based Salary Analysis
 
-- **Beauty/Fashion** (85.56%)
-- **Education** (73.33%)
-- **Animal/Pets** (71.43%)
+Conducted a location-based salary analysis to identify countries where entry-level average salaries exceed the market average for specific job titles. Key findings included lucrative opportunities in the US for roles such as:
 
-These are the areas with strong female representation.
+- **Research Scientist:** $168,206 vs. $158,549
+- **Research Engineer:** $162,668 vs. $135,468
+- **ML Engineer:** $142,000 vs. $81,663
 
----
-
-# Analyzed the yearly sales pitch data, determining pitch volume, offers received, and conversions:
-
-**Year 1:**
-- 152 pitches
-- 96 offers
-- 70 conversions (46.05% conversion rate, 63.16% offer rate)
-
-**Year 2:**
-- 169 pitches
-- 121 offers
-- 106 conversions (62.72% conversion rate, 71.60% offer rate)
-
-**Year 3:**
-- 157 pitches
-- 104 offers
-- 92 conversions (58.60% conversion rate, 66.24% offer rate)
+This analysis aids the agency in guiding candidates toward high-paying markets.
 
 ---
 
-# Identified the top 5 industries with the highest average monthly sales in that season:
+# Global Salary Analysis
 
-1. **Electronics:** $3500
-2. **Furnishing/Household:** $96.27
-3. **Beauty/Fashion:** $61.65
-4. **Food:** $41.28
+Conducted a global salary analysis to identify the highest-paying countries for various AI-related job titles. Key findings included:
+
+- **Canada:** Highest average salary for AI Architects ($800,000) and AI Developers ($275,000)
+- **India:** Highest average salary for AI Programmers ($4,950,806)
+- **Switzerland:** Highest average salary for AI Research Engineers ($2,000,000)
+
+This analysis provided strategic insights to optimize candidate placement in high-paying regions.
 
 ---
 
-# Identified Amit as the most generous "shark," with an average investment of 35.27, followed by:
+# Salary Trend Analysis (2023–2024)
 
-- Peyush (35.06)
-- Aman (34.18)
-- Namita (32.94)
-- Vineeta (31.25)
+Performed a detailed analysis of salary trends between 2023 and 2024, calculating the average salary increase percentages for various roles. Key findings included:
 
-This analysis highlights the investment tendencies of each investor.
+- **Prompt Engineers:** 254.26% increase
+- **Data Analytics Leads:** 126.62% increase
+- **MLOps Engineers:** 109.66% increase
+
+This analysis provided actionable insights to help the company stay competitive in attracting top talent.
+
+---
+
+# Entry-level Salary Trends
+
+Analyzed entry-level salary trends, identifying the US as a lucrative market for roles like:
+
+- **Research Scientist:** $168,206 vs. $158,549
+- **Research Engineer:** $162,668 vs. $135,468
+- **ML Engineer:** $142,000 vs. $81,663
+
+This information aids candidates in targeting high-paying locations.
+
+---
+
+# Global Salary Research
+
+Conducted global salary research, uncovering top-paying countries:
+
+- **Canada:** AI Architects ($800,000) and AI Developers ($275,000)
+- **India:** AI Programmers ($4,950,806)
+- **Switzerland:** AI Research Engineers ($2,000,000)
+
+This research optimized candidate placement strategies.
+
+---
+
+# Salary Trends Evaluation (2023–2024)
+
+Evaluated salary trends (2023–2024), revealing increases of:
+
+- **Prompt Engineers:** 254.26% increase
+- **Data Analytics Leads:** 126.62% increase
+- **MLOps Engineers:** 109.66% increase
+
+This analysis enabled the company to remain competitive in the talent market.
